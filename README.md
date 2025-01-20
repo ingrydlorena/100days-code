@@ -1,7 +1,74 @@
 # 100 days of python challenge
-- [x] day 01 | - [ ] day 51
-
-
+- [x] day 01  
+- [x] day 02  
+- [x] day 03  
+- [x] day 04  
+- [x] day 05  
+- [x] day 06  
+- [x] day 07   
+- [x] day 08  
+- [x] day 09  
+- [x] day 10  
+- [x] day 11  
+- [x] day 12  
+- [x] day 13  
+- [x] day 14  
+- [x] day 15  
+- [x] day 16  
+- [x] day 17  
+- [x] day 18  
+- [x] day 19  
+- [x] day 20 
+- [x] day 21 
+- [x] day 22 
+- [x] day 23 
+- [x] day 24 
+- [ ] day 25 
+- [ ] day 26 
+- [ ] day 27 
+- [ ] day 28 
+- [ ] day 29 
+- [ ] day 30 
+- [ ] day 31 
+- [ ] day 32 
+- [ ] day 33 
+- [ ] day 34 
+- [ ] day 35 
+- [ ] day 36 
+- [ ] day 37 
+- [ ] day 38 
+- [ ] day 39 
+- [ ] day 40
+- [ ] day 41 
+- [ ] day 42 
+- [ ] day 43 
+- [ ] day 44 
+- [x] day 45 
+- [x] day 46 
+- [x] day 47 
+- [x] day 48 
+- [ ] day 49 
+- [x] day 50
+- [ ] day 51
+- [ ] day 52
+- [ ] day 53
+- [ ] day 54
+- [ ] day 55
+- [ ] day 56
+- [ ] day 57
+- [ ] day 58
+- [ ] day 59
+- [ ] day 60
+- [ ] day 61
+- [ ] day 62
+- [ ] day 63
+- [ ] day 64
+- [ ] day 65
+- [ ] day 66
+- [ ] day 67
+- [ ] day 69
+- [ ] day 70
+- [ ] day 71
 - [ ] day 72
 - [ ] day 73
 - [ ] day 74
@@ -31,54 +98,7 @@
 - [ ] day 98
 - [ ] day 99
 - [ ] day 100
-- [x] day 02 | - [ ] day 52
-- [x] day 03 | - [ ] day 53
-- [x] day 04 | - [ ] day 54
-- [x] day 05 | - [ ] day 55
-- [x] day 06 | - [ ] day 56
-- [x] day 07 | - [ ] day 57
-- [x] day 08 | - [ ] day 58
-- [x] day 09 | - [ ] day 59
-- [x] day 10 | - [ ] day 60
-- [x] day 11 | - [ ] day 61
-- [x] day 12 | - [ ] day 62
-- [x] day 13 | - [ ] day 63
-- [x] day 14 | - [ ] day 64
-- [x] day 15 | - [ ] day 65
-- [x] day 16 | - [ ] day 66
-- [x] day 17 | - [ ] day 67
-- [x] day 18 | - [ ] day 69
-- [x] day 19 | - [ ] day 70
-- [x] day 20 | - [ ] day 71
-- [x] day 21 |
-- [x] day 22 |
-- [x] day 23 |
-- [x] day 24 |
-- [ ] day 25 |
-- [ ] day 26 |
-- [ ] day 27 |
-- [ ] day 28 |
-- [ ] day 29 |
-- [ ] day 30 |
-- [ ] day 31 |
-- [ ] day 32 |
-- [ ] day 33 |
-- [ ] day 34 |
-- [ ] day 35 |
-- [ ] day 36 |
-- [ ] day 37 |
-- [ ] day 38 |
-- [ ] day 39 |
-- [ ] day 40 |
-- [ ] day 41 |
-- [ ] day 42 |
-- [ ] day 43 |
-- [ ] day 44 |
-- [x] day 45 |
-- [x] day 46 |
-- [x] day 47 |
-- [x] day 48 |
-- [ ] day 49 |
-- [x] day 50 |
+
+
  
 
