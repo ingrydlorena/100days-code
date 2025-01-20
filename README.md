@@ -1,0 +1,84 @@
+# 100 days of python challenge
+- [x] day 01 | - [ ] day 51
+
+
+- [ ] day 72
+- [ ] day 73
+- [ ] day 74
+- [ ] day 75
+- [ ] day 76
+- [ ] day 77
+- [ ] day 78
+- [ ] day 79
+- [ ] day 80
+- [ ] day 81
+- [ ] day 82
+- [ ] day 83
+- [ ] day 84
+- [ ] day 85
+- [ ] day 86
+- [ ] day 87
+- [ ] day 88
+- [ ] day 89
+- [ ] day 90
+- [ ] day 91
+- [ ] day 92
+- [ ] day 93
+- [ ] day 94
+- [ ] day 95
+- [ ] day 96
+- [ ] day 97
+- [ ] day 98
+- [ ] day 99
+- [ ] day 100
+- [x] day 02 | - [ ] day 52
+- [x] day 03 | - [ ] day 53
+- [x] day 04 | - [ ] day 54
+- [x] day 05 | - [ ] day 55
+- [x] day 06 | - [ ] day 56
+- [x] day 07 | - [ ] day 57
+- [x] day 08 | - [ ] day 58
+- [x] day 09 | - [ ] day 59
+- [x] day 10 | - [ ] day 60
+- [x] day 11 | - [ ] day 61
+- [x] day 12 | - [ ] day 62
+- [x] day 13 | - [ ] day 63
+- [x] day 14 | - [ ] day 64
+- [x] day 15 | - [ ] day 65
+- [x] day 16 | - [ ] day 66
+- [x] day 17 | - [ ] day 67
+- [x] day 18 | - [ ] day 69
+- [x] day 19 | - [ ] day 70
+- [x] day 20 | - [ ] day 71
+- [x] day 21 |
+- [x] day 22 |
+- [x] day 23 |
+- [x] day 24 |
+- [ ] day 25 |
+- [ ] day 26 |
+- [ ] day 27 |
+- [ ] day 28 |
+- [ ] day 29 |
+- [ ] day 30 |
+- [ ] day 31 |
+- [ ] day 32 |
+- [ ] day 33 |
+- [ ] day 34 |
+- [ ] day 35 |
+- [ ] day 36 |
+- [ ] day 37 |
+- [ ] day 38 |
+- [ ] day 39 |
+- [ ] day 40 |
+- [ ] day 41 |
+- [ ] day 42 |
+- [ ] day 43 |
+- [ ] day 44 |
+- [x] day 45 |
+- [x] day 46 |
+- [x] day 47 |
+- [x] day 48 |
+- [ ] day 49 |
+- [x] day 50 |
+ 
+
