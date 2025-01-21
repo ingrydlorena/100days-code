@@ -1,4 +1,5 @@
 # 100 days of python challenge
+#### Here is my challenge code for 100 days of Python. Feel free to commit to me!
 - [x] day 01  
 - [x] day 02  
 - [x] day 03  
