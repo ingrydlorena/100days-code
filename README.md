@@ -47,7 +47,7 @@
 - [x] day 46 
 - [x] day 47 
 - [x] day 48 
-- [ ] day 49 
+- [x] day 49 
 - [x] day 50
 - [x] day 51
 - [ ] day 52
