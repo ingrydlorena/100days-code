@@ -30,16 +30,16 @@
 - [x] day 28 
 - [x] day 29 
 - [x] day 30 
-- [ ] day 31 
-- [ ] day 32 
-- [ ] day 33 
-- [ ] day 34 
-- [ ] day 35 
-- [ ] day 36 
-- [ ] day 37 
-- [ ] day 38 
-- [ ] day 39 
-- [ ] day 40
+- [x] day 31 
+- [x] day 32 
+- [x] day 33 
+- [x] day 34 
+- [x] day 35 
+- [x] day 36 
+- [x] day 37 
+- [x] day 38 
+- [x] day 39 
+- [x] day 40
 - [ ] day 41 
 - [ ] day 42 
 - [ ] day 43 
@@ -52,8 +52,8 @@
 - [x] day 50
 - [x] day 51
 - [x] day 52
-- [ ] day 53
-- [ ] day 54
+- [x] day 53
+- [x] day 54
 - [ ] day 55
 - [ ] day 56
 - [ ] day 57
