@@ -25,4 +25,4 @@ graph = {
     'F' : ['E']
 }
 
-dfs(graph, 'F')
+dfs(graph, 'A')
