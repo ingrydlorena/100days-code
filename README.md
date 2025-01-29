@@ -55,10 +55,10 @@
 - [x] day 53
 - [x] day 54
 - [x] day 55
-- [ ] day 56
-- [ ] day 57
-- [ ] day 58
-- [ ] day 59
+- [x] day 56
+- [x] day 57
+- [x] day 58
+- [x] day 59
 - [ ] day 60
 - [ ] day 61
 - [ ] day 62
