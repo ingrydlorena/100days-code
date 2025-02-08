@@ -59,16 +59,16 @@
 - [x] day 57
 - [x] day 58
 - [x] day 59
-- [ ] day 60
-- [ ] day 61
-- [ ] day 62
-- [ ] day 63
-- [ ] day 64
-- [ ] day 65
-- [ ] day 66
-- [ ] day 67
+- [x] day 60
+- [x] day 61
+- [x] day 62
+- [x] day 63
+- [x] day 64
+- [x] day 65
+- [x] day 66
+- [x] day 67
 - [ ] day 69
-- [ ] day 70
+- [x] day 70
 - [ ] day 71
 - [ ] day 72
 - [ ] day 73
