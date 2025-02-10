@@ -10,18 +10,14 @@ import plotly.express as px
 st.set_page_config(layout='wide')
 
 data = pd.read_csv('supermarket_sales.csv', sep=';', decimal=',')
+
 data['Date'] = pd.to_datetime(data["Date"])
 data = data.sort_values('Date')
-
-
 data['Month'] = data['Date'].apply(lambda x: str(x.year) + '-' + str(x.month))
+
 month = st.sidebar.selectbox('Month', data['Month'].unique())
-
-
 data_filtered = data[data['Month'] == month]
-
 city_total = data_filtered.groupby("City")[["Total"]].sum().reset_index()
-
 rating = data_filtered.groupby("City")[["Rating"]].mean().reset_index()
 
 
