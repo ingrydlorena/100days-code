@@ -44,5 +44,5 @@ col4.plotly_chart(fig_kind, use_container_width=True)
 fig_rating = px.bar(data_filtered, x='City', y='Rating', title='Rating')
 col5.plotly_chart(fig_rating, use_container_width=True)
 
-print(data)
+
 
