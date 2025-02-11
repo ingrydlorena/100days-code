@@ -67,10 +67,10 @@
 - [x] day 65
 - [x] day 66
 - [x] day 67
-- [ ] day 69
+- [x] day 69
 - [x] day 70
-- [ ] day 71
-- [ ] day 72
+- [x] day 71
+- [x] day 72
 - [ ] day 73
 - [ ] day 74
 - [ ] day 75
