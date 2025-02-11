@@ -6,13 +6,24 @@ import plotly.express as px
 import pandas as pd
 import streamlit as st
 
-data = pd.read_csv("br_rf_arrecadacao_uf.csv", sep = ',', decimal = '.')
+data = pd.read_csv("top_100_tiktok.csv", sep = ',')
+top_5_followers = data.sort_values(by='Followers', ascending=False).head()
+top_5_likes = data.sort_values(by='Likes', ascending=False).head()
+col1, col2 = st.columns(2)
+col3,col4 = st.columns(2)
 
-# year = st.sidebar.selectbox('Year', data['ano'].unique())
-# data_filtered = data[data['ano'] == year]
-# city_total = data_filtered.groupby("Estado")[["imposto"]].sum().reset_index()
 
-col1, col2 = st.column(2)
-col3, col4 = st.column(2)
+fig_data1 = px.pie(top_5_followers, values = 'Followers', names = 'Username', title='The five tiktokers with more Followers')
+col1.plotly_chart(fig_data1, use_container_width=True)
 
-fig_data1 = px.bar(data, x='ano', y='imposto_importacao', color='sigla_uf', title='tax per year')
+fig_data2 = px.bar(top_5_likes, x='Username', y='Likes', color='Username', title='Tiktokers with more Likes')
+col2.plotly_chart(fig_data2, use_container_width=True)
+
+
+top_5_followers = data.sort_values(by='Followers', ascending=True).head()
+fig_data3 = px.pie(top_5_followers, values='Followers',names='Username', title='Tiktoker with less Followers')
+col3.plotly_chart(fig_data3, use_container_width=True)
+
+top_5_likes = data.sort_values(by='Likes', ascending=True).head()
+fig_data4 = px.bar(top_5_likes, x='Username', y='Likes', color='Username', title='Tiktokers with less Likes')
+col4.plotly_chart(fig_data4, use_container_width=True)
