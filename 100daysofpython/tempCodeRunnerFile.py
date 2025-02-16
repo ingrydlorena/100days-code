@@ -1,8 +1,6 @@
-class Error(Exception):
-    def __init__(self, message):
-        super().__init__(message)
+directory = r'C:\Users\Ingryd\OneDrive\Área de Trabalho\Todo'
+prefix = 'test'
+suffix = '_automate'
+extension = ".txt"
 
-try:
-    raise Error("Something went wrong!")
-except Error as erro:
-    print(f"Caught an error:{erro}")
+rename_files(directory, prefix, suffix, extension)
