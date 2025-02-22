@@ -1,3 +1,7 @@
+'''
+Day 82: Implement Tic-Tac-Toe
+Implement a game (e.g., Tic-Tac-Toe, Hangman) in Python.
+'''
 def main():
     game = [' '] * 9
     char = ['X', 'O']
