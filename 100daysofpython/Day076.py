@@ -4,7 +4,7 @@ Create a chatbot using NLP libraries.
 '''
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-9c0a55ae83cd46c4b3d656be120d2c39", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
 
 
