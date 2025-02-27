@@ -38,7 +38,6 @@ label_text = tk.StringVar()
 label = tk.Label(root, textvariable=label_text, font=("Arial", 30), bg="white", width=15, height=2)
 label.grid(row=0, column=0, columnspan=4)
 
-
 buttons = [
     ("7", 1, 0), ("8", 1, 1), ("9", 1, 2), ("C", 1, 3),
     ("4", 2, 0), ("5", 2, 1), ("6", 2, 2), ("+", 2, 3),

@@ -26,6 +26,5 @@ def main():
         print(f"I can't see you beatiful")
     
     
-
 if __name__ == "__main__":
     main()
